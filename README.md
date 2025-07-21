@@ -10,7 +10,7 @@ This project demonstrates a fundamental understanding of Linux file permissions 
   - Group
   - Others
 - Apply the `chmod` command to give a file the permission: `rwxrwxr-x` (i.e., 775)
-see test.png
+ - see test.png
 ---
 
 ## 🔧 Permissions Breakdown
