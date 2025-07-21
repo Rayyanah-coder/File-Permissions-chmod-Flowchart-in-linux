@@ -28,4 +28,4 @@ Total octal representation: **775**
 ---
 
 📊 Flowchart
-The project includes a flowchart image (see flowchart.png)
+The project includes a flowchart image (see flowchart.jpeg)
